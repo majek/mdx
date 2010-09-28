@@ -1,0 +1,13 @@
+The idea here is to process an file written in markdown, with some extensions,
+and produce html or some other format.
+
+For example, currently we produce markdown that is acceptable by github.
+
+
+Code partially stolen from Jekyll project:
+  http://github.com/mojombo/jekyll (The MIT License)
+
+Github-markup is a part of:
+  http://github.com/github/markup (The MIT License)
+
+
